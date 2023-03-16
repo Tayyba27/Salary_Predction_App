@@ -1,9 +1,9 @@
 # WiCHacks'23 Hackathon project : Salary Prediction App
 
 # Team:
-Tayyaba Anwer
-Hamna Qaseem
-Amina Saeed
+- Tayyaba Anwer
+- Hamna Qaseem
+- Amina Saeed
 
 
 # Salary-Prediction-App
